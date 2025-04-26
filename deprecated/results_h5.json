@@ -1,0 +1,835 @@
+{
+    "nlte08000-3.90+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "3.90",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0036785399545939093,
+        "Quality_unshifted": 0.005617067610560346
+    },
+    "nlte08000-3.95+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "3.95",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0035937095602242017,
+        "Quality_unshifted": 0.005528561995138673
+    },
+    "nlte08000-4.00+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.00",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0034835680119533275,
+        "Quality_unshifted": 0.00541726366527561
+    },
+    "nlte08000-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0033948000522347845,
+        "Quality_unshifted": 0.0053254870731182504
+    },
+    "nlte08000-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004086797194473681,
+        "Quality_unshifted": 0.006018721178884219
+    },
+    "nlte08000-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004080931939196557,
+        "Quality_unshifted": 0.006007827441146989
+    },
+    "nlte08000-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003975847742269473,
+        "Quality_unshifted": 0.005900436232963399
+    },
+    "nlte08000-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003888638408245513,
+        "Quality_unshifted": 0.0058117605986261
+    },
+    "nlte08000-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004759428257966542,
+        "Quality_unshifted": 0.006566976319743243
+    },
+    "nlte08000-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004681078804862743,
+        "Quality_unshifted": 0.00648655935033808
+    },
+    "nlte08000-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08000",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0046082040534926715,
+        "Quality_unshifted": 0.0064107570498805125
+    },
+    "nlte08100-3.90+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "3.90",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003614552775721841,
+        "Quality_unshifted": 0.005532779824128573
+    },
+    "nlte08100-3.95+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "3.95",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003474525745868614,
+        "Quality_unshifted": 0.005392115677528397
+    },
+    "nlte08100-4.00+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.00",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0034006424968851586,
+        "Quality_unshifted": 0.005313377829163327
+    },
+    "nlte08100-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0032771798388081417,
+        "Quality_unshifted": 0.005187917253247357
+    },
+    "nlte08100-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003981678363267374,
+        "Quality_unshifted": 0.00589332857351693
+    },
+    "nlte08100-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0038612223647672946,
+        "Quality_unshifted": 0.005771722458648127
+    },
+    "nlte08100-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003855982344484704,
+        "Quality_unshifted": 0.005761278858095192
+    },
+    "nlte08100-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004708691486063331,
+        "Quality_unshifted": 0.006499999178123827
+    },
+    "nlte08100-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004603280820898714,
+        "Quality_unshifted": 0.006396363152390084
+    },
+    "nlte08100-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004505831483376946,
+        "Quality_unshifted": 0.006295920817501819
+    },
+    "nlte08100-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004412819904530126,
+        "Quality_unshifted": 0.006200082239296626
+    },
+    "nlte08100-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0043398043690367335,
+        "Quality_unshifted": 0.006122706335678804
+    },
+    "nlte08100-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08100",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004455942484409303,
+        "Quality_unshifted": 0.006239570030368851
+    },
+    "nlte08174-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08174",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0032628345233095195,
+        "Quality_unshifted": 0.005156465490008821
+    },
+    "nlte08197-4.05+0.1.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.1",
+        "Quality_shifted": 0.0033227865816531123,
+        "Quality_unshifted": 0.005130239782836062
+    },
+    "nlte08197-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0032708567725922314,
+        "Quality_unshifted": 0.005158625148701802
+    },
+    "nlte08197-4.05+0.3.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.3",
+        "Quality_shifted": 0.003292180139812437,
+        "Quality_unshifted": 0.005258344785132154
+    },
+    "nlte08197-4.05+0.4.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.4",
+        "Quality_shifted": 0.003403778779751541,
+        "Quality_unshifted": 0.0054447110703632565
+    },
+    "nlte08197-4.05+0.5.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.5",
+        "Quality_shifted": 0.0042810195355307635,
+        "Quality_unshifted": 0.006400434794313175
+    },
+    "nlte08197-4.05+0.6.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.6",
+        "Quality_shifted": 0.004530578620155601,
+        "Quality_unshifted": 0.0067248076746411955
+    },
+    "nlte08197-4.05+0.7.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.7",
+        "Quality_shifted": 0.004935175296419539,
+        "Quality_unshifted": 0.007198589844964803
+    },
+    "nlte08197-4.05+0.8.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.8",
+        "Quality_shifted": 0.005471190406858977,
+        "Quality_unshifted": 0.007804498461105752
+    },
+    "nlte08197-4.05+0.9.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "0.9",
+        "Quality_shifted": 0.006948073812529934,
+        "Quality_unshifted": 0.009253576543175733
+    },
+    "nlte08197-4.05+1.0.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08197",
+        "logg": "4.05",
+        "z_scale": "1.0",
+        "Quality_shifted": 0.007723038704505936,
+        "Quality_unshifted": 0.010104610337493259
+    },
+    "nlte08200-3.90+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "3.90",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003634134219783224,
+        "Quality_unshifted": 0.005528554047749737
+    },
+    "nlte08200-3.95+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "3.95",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0035036418858031913,
+        "Quality_unshifted": 0.00539661395984388
+    },
+    "nlte08200-4.00+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.00",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0033642618385744507,
+        "Quality_unshifted": 0.005255034981695339
+    },
+    "nlte08200-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0032723475426088035,
+        "Quality_unshifted": 0.005159265134333506
+    },
+    "nlte08200-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003985272059409439,
+        "Quality_unshifted": 0.0058733467842286375
+    },
+    "nlte08200-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003840688745092646,
+        "Quality_unshifted": 0.005727743578558173
+    },
+    "nlte08200-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0038436692575528047,
+        "Quality_unshifted": 0.00572587781891245
+    },
+    "nlte08200-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004673736759072593,
+        "Quality_unshifted": 0.006447164772144812
+    },
+    "nlte08200-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004544676387503266,
+        "Quality_unshifted": 0.006316193699025227
+    },
+    "nlte08200-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004425681720275798,
+        "Quality_unshifted": 0.00619521916349924
+    },
+    "nlte08200-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004315791468695584,
+        "Quality_unshifted": 0.006082578216775531
+    },
+    "nlte08200-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004215828808450882,
+        "Quality_unshifted": 0.00598044166825943
+    },
+    "nlte08200-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08200",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004362960680012026,
+        "Quality_unshifted": 0.006124213393762049
+    },
+    "nlte08300-3.90+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "3.90",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0038008441132925458,
+        "Quality_unshifted": 0.005665199426969468
+    },
+    "nlte08300-3.95+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "3.95",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0036200477337966614,
+        "Quality_unshifted": 0.0054830031565828215
+    },
+    "nlte08300-4.00+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.00",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0034815426400316546,
+        "Quality_unshifted": 0.005342702264967872
+    },
+    "nlte08300-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003306827673033471,
+        "Quality_unshifted": 0.005168414999351623
+    },
+    "nlte08300-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004095876116494727,
+        "Quality_unshifted": 0.005955778034447781
+    },
+    "nlte08300-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003924797374015699,
+        "Quality_unshifted": 0.005784065148904979
+    },
+    "nlte08300-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004745488330004681,
+        "Quality_unshifted": 0.006492556452065635
+    },
+    "nlte08300-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004736649552927767,
+        "Quality_unshifted": 0.0064847370666082284
+    },
+    "nlte08300-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.00458326583479479,
+        "Quality_unshifted": 0.006329877629704606
+    },
+    "nlte08300-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.00444158253250842,
+        "Quality_unshifted": 0.006186554587595485
+    },
+    "nlte08300-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004312013380284604,
+        "Quality_unshifted": 0.006054340494498838
+    },
+    "nlte08300-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004204694947090262,
+        "Quality_unshifted": 0.005944163437615571
+    },
+    "nlte08300-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004097416744464523,
+        "Quality_unshifted": 0.005833399844785385
+    },
+    "nlte08300-4.55+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.55",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005417450417469238,
+        "Quality_unshifted": 0.007151194474518972
+    },
+    "nlte08300-4.60+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08300",
+        "logg": "4.60",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005294721063975576,
+        "Quality_unshifted": 0.0070268533868834285
+    },
+    "nlte08400-3.90+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "3.90",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.00407843769510315,
+        "Quality_unshifted": 0.005907738157997987
+    },
+    "nlte08400-3.95+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "3.95",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003870075692451234,
+        "Quality_unshifted": 0.005697999056942269
+    },
+    "nlte08400-4.00+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.00",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003649429178216526,
+        "Quality_unshifted": 0.005478852544734178
+    },
+    "nlte08400-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0034725787086257328,
+        "Quality_unshifted": 0.0053009379184350185
+    },
+    "nlte08400-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004205527946123355,
+        "Quality_unshifted": 0.006035887166858757
+    },
+    "nlte08400-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004100372949319173,
+        "Quality_unshifted": 0.0059315524120503015
+    },
+    "nlte08400-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004890458728978641,
+        "Quality_unshifted": 0.006612409044469138
+    },
+    "nlte08400-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004713528267223863,
+        "Quality_unshifted": 0.0064351389041738625
+    },
+    "nlte08400-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004714565464042801,
+        "Quality_unshifted": 0.006432530338175602
+    },
+    "nlte08400-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004548502074728888,
+        "Quality_unshifted": 0.006265292645166536
+    },
+    "nlte08400-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004408218781015697,
+        "Quality_unshifted": 0.006122682993164317
+    },
+    "nlte08400-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.00426787177413786,
+        "Quality_unshifted": 0.005980357188532683
+    },
+    "nlte08400-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005338319770586945,
+        "Quality_unshifted": 0.007047371144676308
+    },
+    "nlte08400-4.55+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.55",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005521409177063971,
+        "Quality_unshifted": 0.007228905797403949
+    },
+    "nlte08500-3.95+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "3.95",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004219406233875555,
+        "Quality_unshifted": 0.0060083749280626965
+    },
+    "nlte08500-4.00+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.00",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003961302162677628,
+        "Quality_unshifted": 0.005752587837839627
+    },
+    "nlte08500-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.003743106535539187,
+        "Quality_unshifted": 0.005533882527602042
+    },
+    "nlte08500-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0035258773333298283,
+        "Quality_unshifted": 0.0053217412917575535
+    },
+    "nlte08500-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0042642110527548885,
+        "Quality_unshifted": 0.00606140729252993
+    },
+    "nlte08500-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005135246986577134,
+        "Quality_unshifted": 0.006822770944364894
+    },
+    "nlte08500-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004931428506285881,
+        "Quality_unshifted": 0.006619212681306985
+    },
+    "nlte08500-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004735909813681696,
+        "Quality_unshifted": 0.006423280803132172
+    },
+    "nlte08500-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004755813500829035,
+        "Quality_unshifted": 0.006439529068458288
+    },
+    "nlte08500-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004575656480594279,
+        "Quality_unshifted": 0.006259013551005028
+    },
+    "nlte08500-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.00441930668696377,
+        "Quality_unshifted": 0.006098375078777544
+    },
+    "nlte08500-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005507101258961053,
+        "Quality_unshifted": 0.0071852554940523275
+    },
+    "nlte08500-4.55+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.55",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005695866004908525,
+        "Quality_unshifted": 0.007374719451569251
+    },
+    "nlte08600-4.00+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.00",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004366597936587762,
+        "Quality_unshifted": 0.006115600864828787
+    },
+    "nlte08600-4.05+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.05",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004116867558772666,
+        "Quality_unshifted": 0.005865899893564503
+    },
+    "nlte08600-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0038443714540456176,
+        "Quality_unshifted": 0.005599830688953424
+    },
+    "nlte08600-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004559272609465263,
+        "Quality_unshifted": 0.006316690411088659
+    },
+    "nlte08600-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005348850316702647,
+        "Quality_unshifted": 0.0070004041924457685
+    },
+    "nlte08600-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005233000961321804,
+        "Quality_unshifted": 0.006883302372256161
+    },
+    "nlte08600-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005028341333095632,
+        "Quality_unshifted": 0.006678596249513479
+    },
+    "nlte08600-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005029978623355315,
+        "Quality_unshifted": 0.006676656635464183
+    },
+    "nlte08600-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0048303025137154945,
+        "Quality_unshifted": 0.006476275476679529
+    },
+    "nlte08600-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004638380354047945,
+        "Quality_unshifted": 0.006284062534325151
+    },
+    "nlte08600-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005749430701899429,
+        "Quality_unshifted": 0.007393630009473456
+    },
+    "nlte08700-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004262408128272367,
+        "Quality_unshifted": 0.005973351291758138
+    },
+    "nlte08700-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0040046045418591514,
+        "Quality_unshifted": 0.005717250038000523
+    },
+    "nlte08700-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005690974779611506,
+        "Quality_unshifted": 0.007301238698336215
+    },
+    "nlte08700-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005488306838281165,
+        "Quality_unshifted": 0.007099826764669451
+    },
+    "nlte08700-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0053928467794031884,
+        "Quality_unshifted": 0.00700162710873809
+    },
+    "nlte08700-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005143302015232346,
+        "Quality_unshifted": 0.006753851350446582
+    },
+    "nlte08700-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005148928137104153,
+        "Quality_unshifted": 0.006757314752815637
+    },
+    "nlte08700-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004930384112721487,
+        "Quality_unshifted": 0.00653938641935739
+    },
+    "nlte08700-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004725043281362198,
+        "Quality_unshifted": 0.006334053109469243
+    },
+    "nlte08800-4.10+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004759234277470723,
+        "Quality_unshifted": 0.006422431836579686
+    },
+    "nlte08800-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0044329660807555455,
+        "Quality_unshifted": 0.0061110269709044275
+    },
+    "nlte08800-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0061307546193775835,
+        "Quality_unshifted": 0.007695992790793171
+    },
+    "nlte08800-4.25+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005844382322355791,
+        "Quality_unshifted": 0.007424076583954528
+    },
+    "nlte08800-4.30+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0056790250138651285,
+        "Quality_unshifted": 0.007246279820449333
+    },
+    "nlte08800-4.35+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005528510927312173,
+        "Quality_unshifted": 0.007097596429113859
+    },
+    "nlte08800-4.40+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0052924876513352195,
+        "Quality_unshifted": 0.006862598928236685
+    },
+    "nlte08800-4.45+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005286230286737796,
+        "Quality_unshifted": 0.00685619019032631
+    },
+    "nlte08800-4.50+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0050548885464247375,
+        "Quality_unshifted": 0.006626327369950782
+    }
+}

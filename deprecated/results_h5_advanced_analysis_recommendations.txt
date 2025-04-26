@@ -1,0 +1,48 @@
+ADVANCED PERIODICITY ANALYSIS RESULTS
+Data file: results_h5.json
+z_scale: 0.2
+Date: 2025-03-02 17:27:45
+
+SUMMARY STATISTICS:
+- Data points analyzed: 108
+- Detected Teff periodicity: 222.95 ± 57.38
+- Detected logg periodicity: 0.3014 ± 0.0102
+- Number of pattern clusters: 5
+- Suggested additional points: 200
+
+DETAILED RECOMMENDATIONS FOR DATA COLLECTION:
+============================================================
+
+1. PATTERN ASSESSMENT: The data shows 5 distinct cluster pattern(s).
+   - Recommended strategy: Focus sampling in these clustered regions.
+
+2. DETECTED PERIODICITIES:
+   - Temperature (Teff): 222.95
+   - Surface Gravity (logg): 0.3014
+   - For optimal sampling, collect points at these intervals
+
+3. PRIORITY SAMPLING REGIONS (Top 8 Temperature Bands):
+   • Region 1: Teff ≈ 7650.0, logg range: 4.98-5.05 (2 points recommended)
+   • Region 2: Teff ≈ 7700.0, logg range: 4.98-5.05 (2 points recommended)
+   • Region 3: Teff ≈ 7800.0, logg range: 4.98-5.05 (2 points recommended)
+   • Region 4: Teff ≈ 7850.0, logg range: 4.98-5.05 (2 points recommended)
+   • Region 5: Teff ≈ 7900.0, logg range: 3.45-5.05 (25 points recommended)
+   • Region 6: Teff ≈ 7950.0, logg range: 3.45-5.05 (25 points recommended)
+   • Region 7: Teff ≈ 8000.0, logg range: 4.90-5.05 (3 points recommended)
+   • Region 8: Teff ≈ 8050.0, logg range: 4.98-5.05 (2 points recommended)
+
+   Total suggested additional points: 200
+
+4. REGIONS OF UNCERTAINTY (High Error Areas):
+   • Area 1: Teff = 7665.6, logg = 4.9757
+   • Area 2: Teff = 9077.9, logg = 4.9757
+   • Area 3: Teff = 8061.0, logg = 5.0521
+   • Area 4: Teff = 8569.5, logg = 4.8229
+   • Area 5: Teff = 8908.4, logg = 3.6007
+
+   These areas show high model uncertainty and would benefit from additional sampling.
+
+5. SAMPLING STRATEGY SUMMARY:
+   • Focus on collecting at least 20 additional data points
+   • Prioritize the clustered regions identified above
+   • Maintain approximate periodicity spacing within each cluster

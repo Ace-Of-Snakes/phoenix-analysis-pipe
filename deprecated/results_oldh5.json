@@ -1,0 +1,373 @@
+{
+    "nlte08100-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08100",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0015094067945261983,
+        "Quality_unshifted": 0.003726296378438182
+    },
+    "nlte08100-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08100",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001531527364300391,
+        "Quality_unshifted": 0.0037427613926215523
+    },
+    "nlte08100-4.35+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08100",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0015526262763738085,
+        "Quality_unshifted": 0.003756238814373227
+    },
+    "nlte08100-4.40+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08100",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0015871968330219003,
+        "Quality_unshifted": 0.0037849793682618775
+    },
+    "nlte08200-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08200",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013487036885137514,
+        "Quality_unshifted": 0.0035330449048199494
+    },
+    "nlte08200-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08200",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013587697435461482,
+        "Quality_unshifted": 0.0035364021396294626
+    },
+    "nlte08200-4.35+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08200",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013689152503256424,
+        "Quality_unshifted": 0.0035393515548415885
+    },
+    "nlte08200-4.40+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08200",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001391995198008176,
+        "Quality_unshifted": 0.003556496905310236
+    },
+    "nlte08200-4.45+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08200",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0014212987787589892,
+        "Quality_unshifted": 0.0035801995246756728
+    },
+    "nlte08200-4.50+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08200",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0014579488199236413,
+        "Quality_unshifted": 0.0036103599156823846
+    },
+    "nlte08200-4.55+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08200",
+        "logg": "4.55",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001497735303394455,
+        "Quality_unshifted": 0.003642611009758214
+    },
+    "nlte08300-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08300",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012812972626580564,
+        "Quality_unshifted": 0.003428105534545496
+    },
+    "nlte08300-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08300",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012751043373724603,
+        "Quality_unshifted": 0.003416262055599227
+    },
+    "nlte08300-4.35+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08300",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012752243508868917,
+        "Quality_unshifted": 0.003409247323498819
+    },
+    "nlte08300-4.40+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08300",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012850391574028633,
+        "Quality_unshifted": 0.0034138661881401243
+    },
+    "nlte08300-4.45+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08300",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013018118123284878,
+        "Quality_unshifted": 0.0034247059716849947
+    },
+    "nlte08300-4.50+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08300",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013264148406597483,
+        "Quality_unshifted": 0.0034429566886927743
+    },
+    "nlte08300-4.55+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08300",
+        "logg": "4.55",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001354160225752478,
+        "Quality_unshifted": 0.003464095788270138
+    },
+    "nlte08400-4.10+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0014378499109955803,
+        "Quality_unshifted": 0.003557749971393126
+    },
+    "nlte08400-4.15+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013800924375807994,
+        "Quality_unshifted": 0.003496022274890047
+    },
+    "nlte08400-4.20+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013363337254616886,
+        "Quality_unshifted": 0.0034457332045200874
+    },
+    "nlte08400-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001301747381521565,
+        "Quality_unshifted": 0.0034067957816646477
+    },
+    "nlte08400-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012779385580350604,
+        "Quality_unshifted": 0.0033782960682992445
+    },
+    "nlte08400-4.35+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012649183462950986,
+        "Quality_unshifted": 0.003358177113141175
+    },
+    "nlte08400-4.40+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012591435594660099,
+        "Quality_unshifted": 0.003347869619963995
+    },
+    "nlte08400-4.45+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.00126196677620989,
+        "Quality_unshifted": 0.003344951467515313
+    },
+    "nlte08400-4.50+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012724605772646042,
+        "Quality_unshifted": 0.0033498324523113057
+    },
+    "nlte08400-4.55+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08400",
+        "logg": "4.55",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012903472024653187,
+        "Quality_unshifted": 0.0033616204688025203
+    },
+    "nlte08500-4.10+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001617071957643619,
+        "Quality_unshifted": 0.003687985206427584
+    },
+    "nlte08500-4.15+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0015334115668084655,
+        "Quality_unshifted": 0.003600767250795855
+    },
+    "nlte08500-4.20+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001464029923244513,
+        "Quality_unshifted": 0.0035270430824882676
+    },
+    "nlte08500-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0014071919212690928,
+        "Quality_unshifted": 0.0034654060257543113
+    },
+    "nlte08500-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013622099486276936,
+        "Quality_unshifted": 0.0034166939373440402
+    },
+    "nlte08500-4.35+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.35",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001329732245968294,
+        "Quality_unshifted": 0.0033802640050790917
+    },
+    "nlte08500-4.40+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.40",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0013104432325555517,
+        "Quality_unshifted": 0.0033544921927552837
+    },
+    "nlte08500-4.45+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.45",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012973396161426534,
+        "Quality_unshifted": 0.003336698684583858
+    },
+    "nlte08500-4.50+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.50",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012931727273436295,
+        "Quality_unshifted": 0.0033273266841901588
+    },
+    "nlte08500-4.55+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08500",
+        "logg": "4.55",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0012974627875162645,
+        "Quality_unshifted": 0.003327112509537532
+    },
+    "nlte08600-4.10+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08600",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0018907470644048436,
+        "Quality_unshifted": 0.003906531245271633
+    },
+    "nlte08600-4.15+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08600",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0017766121594646924,
+        "Quality_unshifted": 0.0037905620873913285
+    },
+    "nlte08600-4.20+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08600",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0016785874699564935,
+        "Quality_unshifted": 0.0036887538950593217
+    },
+    "nlte08600-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08600",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0015951251254543231,
+        "Quality_unshifted": 0.0036017279413026303
+    },
+    "nlte08600-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08600",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0015272516299149037,
+        "Quality_unshifted": 0.003530845134811768
+    },
+    "nlte08700-4.10+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08700",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.002256492255295992,
+        "Quality_unshifted": 0.004212138380179174
+    },
+    "nlte08700-4.15+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08700",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.002108490935449889,
+        "Quality_unshifted": 0.004063003551821426
+    },
+    "nlte08700-4.20+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08700",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.001976616593215132,
+        "Quality_unshifted": 0.003928892030899063
+    },
+    "nlte08700-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08700",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0018654590035318596,
+        "Quality_unshifted": 0.0038156559921173603
+    },
+    "nlte08700-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08700",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0017704934471925702,
+        "Quality_unshifted": 0.0037178115062291906
+    },
+    "nlte08800-4.10+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08800",
+        "logg": "4.10",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.002707223208322025,
+        "Quality_unshifted": 0.004598565537090994
+    },
+    "nlte08800-4.15+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08800",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.002521054719050263,
+        "Quality_unshifted": 0.004412044550823334
+    },
+    "nlte08800-4.20+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08800",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0023575391931528657,
+        "Quality_unshifted": 0.004247505781038127
+    },
+    "nlte08800-4.25+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08800",
+        "logg": "4.25",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.002213541557449288,
+        "Quality_unshifted": 0.004102972846513363
+    },
+    "nlte08800-4.30+0.2.PHOENIX-ACES-AGSS-COND-2011.h5": {
+        "teff": "08800",
+        "logg": "4.30",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0020882736652894406,
+        "Quality_unshifted": 0.00397602029396868
+    }
+}

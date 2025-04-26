@@ -1,0 +1,58 @@
+{
+    "nlte08400-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004100372949319173,
+        "Quality_unshifted": 0.005931552412050302
+    },
+    "nlte08400-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08400",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004890458728978641,
+        "Quality_unshifted": 0.006612409044469138
+    },
+    "nlte08500-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.0042642110527548885,
+        "Quality_unshifted": 0.00606140729252993
+    },
+    "nlte08500-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08500",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005135246986577135,
+        "Quality_unshifted": 0.006822770944364894
+    },
+    "nlte08600-4.15+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.15",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.004559272609465262,
+        "Quality_unshifted": 0.0063166904110886594
+    },
+    "nlte08600-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08600",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005348850316702646,
+        "Quality_unshifted": 0.0070004041924457685
+    },
+    "nlte08700-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08700",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.005690974779611509,
+        "Quality_unshifted": 0.007301238698336215
+    },
+    "nlte08800-4.20+0.2.FULL.PHOENIX-NewEra-SESAM-COND-2023.hummel2.h5": {
+        "teff": "08800",
+        "logg": "4.20",
+        "z_scale": "0.2",
+        "Quality_shifted": 0.006130754619377582,
+        "Quality_unshifted": 0.007695992790793173
+    }
+}
