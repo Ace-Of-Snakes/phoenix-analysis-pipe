@@ -1,0 +1,22 @@
+=== PERIODICITY ANALYSIS RESULTS ===
+Input file: C:\Users\franj\OneDrive\Desktop\phoenix analysis pipe\./output\quality_results_20250409_130206.json
+Data points: 108
+Z-scale: 0.2
+
+--- Detected Periodicities ---
+Teff periodicity: 36.36 ± 0.00
+logg periodicity: 0.0778 ± 0.0000
+Number of pattern clusters: 4
+Suggested additional data points: 200
+
+Most promising regions to explore:
+  Region 1: Teff = 8210.1, logg range: 4.56-4.56
+  Region 2: Teff = 8258.6, logg range: 4.58-4.58
+  Region 3: Teff = 8266.7, logg range: 4.58-4.59
+  Region 4: Teff = 8274.7, logg range: 4.52-4.59
+  Region 5: Teff = 8282.8, logg range: 4.52-4.60
+
+Recommendations for further data collection:
+The data shows distinct cluster patterns. We recommend focused sampling in these clustered regions.
+Use the predicted points in the exported CSV file for guidance.
+For best results, collect at least 20 additional data points.

@@ -1,0 +1,61 @@
+PHOENIX STELLAR ATMOSPHERE MODEL ANALYSIS
+=======================================
+
+Generated: 2025-04-02 02:59:24
+
+QUALITY CALCULATION SUMMARY
+--------------------------
+Analyzed 108 stellar atmosphere models
+Quality statistics:
+  Mean: 0.00444037
+  Min: 0.00327235
+  Max: 0.00613075
+  Std Dev: 0.00067438
+
+GLOBAL MINIMUM ANALYSIS
+----------------------
+Best algorithm: Nelder-Mead
+Minimum location: Teff=8180.54, logg=4.03429
+Minimum quality value: 0.00320877
+
+All optimization results:
+  1. Nelder-Mead: Quality=0.00320877
+  2. Nelder-Mead: Quality=0.00320877
+  3. Nelder-Mead: Quality=0.00320877
+  4. Nelder-Mead: Quality=0.00320877
+  5. Nelder-Mead: Quality=0.00320877
+  ... and 248 more
+
+PERIODICITY ANALYSIS SUMMARY
+---------------------------
+Detected periodicities:
+  Teff: 100.00
+  logg: 0.0500
+Identified 4 pattern clusters
+Generated 200 suggestions for additional data points
+
+Z-SCALE ANALYSIS SUMMARY
+-----------------------
+Analyzed 1 teff/logg pairs with multiple z-scales
+Mean optimal z-scale: 0.1552 ± 0.0000
+Recommended z-scale for future models: 0.1552
+
+OVERALL RECOMMENDATIONS
+======================
+
+Based on the combined analysis, we recommend:
+
+1. QUALITY OPTIMUM:
+   The optimal model parameters are approximately:
+   Teff = 8180.5
+   logg = 4.0343
+
+2. SAMPLING STRATEGY:
+   Sample additional models using these intervals:
+   Teff: Sample every 100.0 K
+   logg: Sample every 0.0500
+
+3. Z-SCALE RECOMMENDATION:
+   Use a consistent z-scale of 0.1552 across all models
+
+Full details and visualizations are available in the respective analysis reports.

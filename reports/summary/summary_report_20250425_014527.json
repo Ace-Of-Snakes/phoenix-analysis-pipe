@@ -1,0 +1,31 @@
+{
+    "timestamp": "20250425_014527",
+    "quality_summary": {
+        "n_models": 135,
+        "mean_quality": 0.004625317895476019,
+        "min_quality": 0.0032723475426088035,
+        "max_quality": 0.00715731696131442,
+        "std_quality": 0.0007775512782188269
+    },
+    "minimum_summary": {
+        "algorithm": "Nelder-Mead",
+        "minimum_point": [
+            8138.8522015666185,
+            4.041166197217413
+        ],
+        "minimum_value": 0.003194473427871089,
+        "is_near_edge": false
+    },
+    "periodicity_summary": {
+        "teff_periodicity": 201.57480314960628,
+        "logg_periodicity": 0.10458411400659699,
+        "n_clusters": 4,
+        "n_predictions": 200
+    },
+    "z_scale_summary": {
+        "n_pairs": 1,
+        "mean_z_scale": 0.19175544729398372,
+        "std_z_scale": 0.0,
+        "recommended_z_scale": 0.19175544729398372
+    }
+}

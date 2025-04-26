@@ -1,0 +1,2956 @@
+{
+    "best_result": {
+        "algorithm": "Nelder-Mead",
+        "minimum_point": [
+            8138.8522015666185,
+            4.041166197217413
+        ],
+        "minimum_value": 0.003194473427871089
+    },
+    "all_results": [
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.8522015666185,
+                4.041166197217413
+            ],
+            "minimum_value": 0.003194473427871089,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.8521969566045,
+                4.041166204362791
+            ],
+            "minimum_value": 0.003194473427871092,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.85216435777,
+                4.041166203780263
+            ],
+            "minimum_value": 0.003194473427871097,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852156967103,
+                4.041166194422356
+            ],
+            "minimum_value": 0.003194473427871099,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852215604092,
+                4.041166199867808
+            ],
+            "minimum_value": 0.003194473427871103,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852154352657,
+                4.041166194916844
+            ],
+            "minimum_value": 0.003194473427871104,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852213036514,
+                4.041166194759859
+            ],
+            "minimum_value": 0.0031944734278711064,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.852193037154,
+                4.0411662080070485
+            ],
+            "minimum_value": 0.003194473427871109,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852169743353,
+                4.041166206948105
+            ],
+            "minimum_value": 0.00319447342787111,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852157147768,
+                4.0411662049314305
+            ],
+            "minimum_value": 0.0031944734278711116,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.8521472352695,
+                4.041166198726986
+            ],
+            "minimum_value": 0.0031944734278711124,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852186030521,
+                4.041166188579483
+            ],
+            "minimum_value": 0.003194473427871113,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852179994137,
+                4.041166188366888
+            ],
+            "minimum_value": 0.0031944734278711133,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852206321448,
+                4.04116619063816
+            ],
+            "minimum_value": 0.003194473427871114,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852145166275,
+                4.041166194339155
+            ],
+            "minimum_value": 0.003194473427871118,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.852193454531,
+                4.04116620943745
+            ],
+            "minimum_value": 0.0031944734278711185,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852182751636,
+                4.041166209520576
+            ],
+            "minimum_value": 0.003194473427871119,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852224839194,
+                4.041166199671702
+            ],
+            "minimum_value": 0.0031944734278711207,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852151992679,
+                4.041166190716403
+            ],
+            "minimum_value": 0.003194473427871122,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852200467345,
+                4.041166188219056
+            ],
+            "minimum_value": 0.0031944734278711233,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852173471479,
+                4.041166210193402
+            ],
+            "minimum_value": 0.0031944734278711276,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852159871116,
+                4.0411661878182805
+            ],
+            "minimum_value": 0.0031944734278711285,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852185005915,
+                4.0411662112817455
+            ],
+            "minimum_value": 0.0031944734278711315,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852145089484,
+                4.041166190232741
+            ],
+            "minimum_value": 0.003194473427871135,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.85216230964,
+                4.041166209916161
+            ],
+            "minimum_value": 0.0031944734278711363,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852226649082,
+                4.041166206546192
+            ],
+            "minimum_value": 0.0031944734278711415,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852135732503,
+                4.041166192556036
+            ],
+            "minimum_value": 0.0031944734278711445,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852134044538,
+                4.041166201942982
+            ],
+            "minimum_value": 0.0031944734278711445,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852198199352,
+                4.041166185427889
+            ],
+            "minimum_value": 0.0031944734278711463,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852229348195,
+                4.041166188124354
+            ],
+            "minimum_value": 0.003194473427871173,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852188318377,
+                4.041166215768934
+            ],
+            "minimum_value": 0.0031944734278711775,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.85216783549,
+                4.041166215869147
+            ],
+            "minimum_value": 0.003194473427871189,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852186314475,
+                4.041166178092112
+            ],
+            "minimum_value": 0.0031944734278712204,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852235172193,
+                4.041166184381389
+            ],
+            "minimum_value": 0.0031944734278712226,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852173997204,
+                4.041166223081544
+            ],
+            "minimum_value": 0.003194473427871286,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852175214227,
+                4.041166170177473
+            ],
+            "minimum_value": 0.003194473427871349,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852100252488,
+                4.041166216699237
+            ],
+            "minimum_value": 0.0031944734278713813,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8138.852219591873,
+                4.041166229352164
+            ],
+            "minimum_value": 0.0031944734278714164,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.852316919769,
+                4.041166198382921
+            ],
+            "minimum_value": 0.003194473427871521,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.852637547902,
+                4.041166203106441
+            ],
+            "minimum_value": 0.0031944734278761848,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.8522873232005,
+                4.041166348703958
+            ],
+            "minimum_value": 0.0031944734278787526,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.852289588488,
+                4.04116635145501
+            ],
+            "minimum_value": 0.0031944734278790375,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.8522929629535,
+                4.041166355513997
+            ],
+            "minimum_value": 0.0031944734278794677,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.8523057186385,
+                4.041166370463836
+            ],
+            "minimum_value": 0.0031944734278811513,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.852355208907,
+                4.041166424165286
+            ],
+            "minimum_value": 0.0031944734278884896,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.852392768379,
+                4.041166461762315
+            ],
+            "minimum_value": 0.003194473427894838,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.848449123695,
+                4.041166101656811
+            ],
+            "minimum_value": 0.0031944734282165405,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.8482611435475,
+                4.041166095700993
+            ],
+            "minimum_value": 0.0031944734282522117,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.858298683303,
+                4.041165971818018
+            ],
+            "minimum_value": 0.0031944734288368503,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.859315097041,
+                4.041166454048378
+            ],
+            "minimum_value": 0.003194473429134707,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.861093834519,
+                4.041166118723354
+            ],
+            "minimum_value": 0.00319447342985769,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8138.844314581833,
+                4.041164100693538
+            ],
+            "minimum_value": 0.0031944734306829426,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.86405548328,
+                4.041166219964054
+            ],
+            "minimum_value": 0.0031944734313743097,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.869261081235,
+                4.041166263037643
+            ],
+            "minimum_value": 0.003194473435113342,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.873276893096,
+                4.0411662769016825
+            ],
+            "minimum_value": 0.003194473438919808,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.880878894646,
+                4.041167385107
+            ],
+            "minimum_value": 0.0031944734483856088,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.861894449136,
+                4.041174662257199
+            ],
+            "minimum_value": 0.0031944734533427433,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.9305169562,
+                4.04117288824298
+            ],
+            "minimum_value": 0.003194473588739162,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.951592365174,
+                4.041168352401217
+            ],
+            "minimum_value": 0.0031944736723240035,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.952033956261,
+                4.041168360879704
+            ],
+            "minimum_value": 0.0031944736744995666,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.955296036104,
+                4.041168423494208
+            ],
+            "minimum_value": 0.0031944736908690314,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.960950551548,
+                4.041168530650333
+            ],
+            "minimum_value": 0.003194473720488722,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.961018582292,
+                4.041168531911881
+            ],
+            "minimum_value": 0.0031944737208546912,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.961065174947,
+                4.041168533468974
+            ],
+            "minimum_value": 0.003194473721105579,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.964426871854,
+                4.0411686010337355
+            ],
+            "minimum_value": 0.003194473739482924,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8138.97984283681,
+                4.041207108246495
+            ],
+            "minimum_value": 0.0031944743309336872,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8139.444385355073,
+                4.041064086472782
+            ],
+            "minimum_value": 0.003194486417962705,
+            "success": true
+        },
+        {
+            "algorithm": "Dual Annealing",
+            "minimum_point": [
+                8137.827462120302,
+                4.041143960463654
+            ],
+            "minimum_value": 0.0031944996413897954,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8139.886367343331,
+                4.04136891384387
+            ],
+            "minimum_value": 0.003194511086107809,
+            "success": true
+        },
+        {
+            "algorithm": "Differential Evolution",
+            "minimum_point": [
+                8140.757663772909,
+                4.041203640556264
+            ],
+            "minimum_value": 0.0031945619122931935,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574189895014,
+                4.033669579253281
+            ],
+            "minimum_value": 0.0031987526833079224,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574187939551,
+                4.033669576144263
+            ],
+            "minimum_value": 0.0031987526833079268,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574200641577,
+                4.0336695804706855
+            ],
+            "minimum_value": 0.003198752683307937,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.5741708765645,
+                4.033669584576192
+            ],
+            "minimum_value": 0.003198752683307942,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574174806444,
+                4.033669587679785
+            ],
+            "minimum_value": 0.0031987526833079506,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574204098521,
+                4.033669590417556
+            ],
+            "minimum_value": 0.003198752683307952,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574192384844,
+                4.033669592501572
+            ],
+            "minimum_value": 0.00319875268330796,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574155487018,
+                4.033669567372161
+            ],
+            "minimum_value": 0.003198752683307961,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574217030749,
+                4.033669588308923
+            ],
+            "minimum_value": 0.003198752683307975,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574219503619,
+                4.033669586389058
+            ],
+            "minimum_value": 0.003198752683307983,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574220011313,
+                4.033669585528266
+            ],
+            "minimum_value": 0.0031987526833079853,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574161182795,
+                4.033669587524135
+            ],
+            "minimum_value": 0.003198752683307988,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574189062246,
+                4.033669566082255
+            ],
+            "minimum_value": 0.003198752683307991,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574141797189,
+                4.033669573320528
+            ],
+            "minimum_value": 0.0031987526833079927,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574169391682,
+                4.033669591449659
+            ],
+            "minimum_value": 0.0031987526833079935,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574162517318,
+                4.033669589511137
+            ],
+            "minimum_value": 0.003198752683308,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574158372335,
+                4.03366955992473
+            ],
+            "minimum_value": 0.003198752683308007,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574141621912,
+                4.033669562659616
+            ],
+            "minimum_value": 0.0031987526833080096,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574229233245,
+                4.033669596734903
+            ],
+            "minimum_value": 0.003198752683308035,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574128358771,
+                4.033669570439804
+            ],
+            "minimum_value": 0.0031987526833080495,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574234334569,
+                4.033669600489616
+            ],
+            "minimum_value": 0.0031987526833080707,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574204613227,
+                4.0336695577464825
+            ],
+            "minimum_value": 0.003198752683308167,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574169810743,
+                4.033669610367161
+            ],
+            "minimum_value": 0.0031987526833082815,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.574250708682,
+                4.033669571502528
+            ],
+            "minimum_value": 0.0031987526833083023,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8176.57419104035,
+                4.033669616482577
+            ],
+            "minimum_value": 0.0031987526833083093,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574181493859,
+                4.033669616313338
+            ],
+            "minimum_value": 0.0031987526833083496,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.57418755814,
+                4.033669656569623
+            ],
+            "minimum_value": 0.0031987526833097356,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574172920701,
+                4.033669486974544
+            ],
+            "minimum_value": 0.0031987526833104998,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.57419499943,
+                4.033669700638908
+            ],
+            "minimum_value": 0.0031987526833123395,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574173040163,
+                4.033669746054499
+            ],
+            "minimum_value": 0.0031987526833168836,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574232398753,
+                4.033669357224845
+            ],
+            "minimum_value": 0.0031987526833252033,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.5742160510035,
+                4.033669851306362
+            ],
+            "minimum_value": 0.0031987526833299946,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.5741017638775,
+                4.033669860254833
+            ],
+            "minimum_value": 0.0031987526833363164,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.5741007350725,
+                4.033669862501003
+            ],
+            "minimum_value": 0.003198752683336792,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574100144719,
+                4.033669863777577
+            ],
+            "minimum_value": 0.003198752683337065,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574099715049,
+                4.033669864699482
+            ],
+            "minimum_value": 0.003198752683337262,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574237293176,
+                4.0336699069990765
+            ],
+            "minimum_value": 0.0031987526833393946,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574095078921,
+                4.033669892058253
+            ],
+            "minimum_value": 0.0031987526833429838,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574085019568,
+                4.033669892805865
+            ],
+            "minimum_value": 0.003198752683343693,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574093295551,
+                4.033669896249267
+            ],
+            "minimum_value": 0.0031987526833439635,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574076930879,
+                4.033669931794391
+            ],
+            "minimum_value": 0.003198752683352901,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574062188855,
+                4.033669931277148
+            ],
+            "minimum_value": 0.0031987526833537044,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574268472141,
+                4.033670037570766
+            ],
+            "minimum_value": 0.0031987526833689942,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574302587348,
+                4.033670176517186
+            ],
+            "minimum_value": 0.0031987526834111094,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.574371952825,
+                4.033670444177021
+            ],
+            "minimum_value": 0.0031987526835228464,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.577026945761,
+                4.03367417977542
+            ],
+            "minimum_value": 0.0031987526886380667,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.552349493372,
+                4.033663570526636
+            ],
+            "minimum_value": 0.0031987527051733633,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.579094289413,
+                4.033661750047305
+            ],
+            "minimum_value": 0.003198752709464976,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.582502036444,
+                4.033680004113921
+            ],
+            "minimum_value": 0.0031987527096215235,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8176.492757019343,
+                4.0336451697767
+            ],
+            "minimum_value": 0.0031987529941007974,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.617309320523,
+                4.033708495990551
+            ],
+            "minimum_value": 0.00319875303857216,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.61760826344,
+                4.033708886539514
+            ],
+            "minimum_value": 0.003198753045771528,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.618164371191,
+                4.033709457824012
+            ],
+            "minimum_value": 0.003198753056405099,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.618429221454,
+                4.0337097179824735
+            ],
+            "minimum_value": 0.0031987530612956807,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.6226893535395,
+                4.033713823885092
+            ],
+            "minimum_value": 0.0031987531426810804,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.624258720158,
+                4.033715381116506
+            ],
+            "minimum_value": 0.0031987531756406786,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.6275604237935,
+                4.033719057784622
+            ],
+            "minimum_value": 0.003198753258178249,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.636834283004,
+                4.033728825260058
+            ],
+            "minimum_value": 0.0031987535084272893,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.765282890536,
+                4.033711983467642
+            ],
+            "minimum_value": 0.0031987543266600313,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.766392479141,
+                4.03371223805651
+            ],
+            "minimum_value": 0.003198754345803339,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.544470359919,
+                4.033587428021146
+            ],
+            "minimum_value": 0.0031987545203056586,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.82325379187,
+                4.033725271423353
+            ],
+            "minimum_value": 0.00319875547534858,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.427453964507,
+                4.033552846488781
+            ],
+            "minimum_value": 0.0031987558815802747,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.427431100857,
+                4.033552830271962
+            ],
+            "minimum_value": 0.0031987558824720075,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.430426661143,
+                4.033538729588863
+            ],
+            "minimum_value": 0.0031987566941671787,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.4302935844435,
+                4.033538608947434
+            ],
+            "minimum_value": 0.0031987567015613768,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.429802145986,
+                4.033538201746602
+            ],
+            "minimum_value": 0.003198756726531185,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.388926475238,
+                4.0335246663421715
+            ],
+            "minimum_value": 0.0031987576169137145,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.387955092468,
+                4.033523836028011
+            ],
+            "minimum_value": 0.0031987576733801103,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.334263249063,
+                4.033476862807084
+            ],
+            "minimum_value": 0.003198761389009871,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.300870206173,
+                4.033452454656294
+            ],
+            "minimum_value": 0.003198763738906668,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.198228024467,
+                4.03338129360219
+            ],
+            "minimum_value": 0.003198772217245554,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.193570035545,
+                4.033377583166169
+            ],
+            "minimum_value": 0.003198772721677467,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.164705201226,
+                4.033357918198063
+            ],
+            "minimum_value": 0.0031987755259145047,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.15019512251,
+                4.0333420569150675
+            ],
+            "minimum_value": 0.003198777869403639,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.1498963959,
+                4.0333418411940976
+            ],
+            "minimum_value": 0.0031987779026475833,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8176.149280440904,
+                4.033341394724235
+            ],
+            "minimum_value": 0.0031987779715082877,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8177.312640354456,
+                4.034025925803129
+            ],
+            "minimum_value": 0.00319878904305118,
+            "success": false
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8175.631667919904,
+                4.033459561523726
+            ],
+            "minimum_value": 0.003198792561136136,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8163.40694321479,
+                4.042655369313795
+            ],
+            "minimum_value": 0.0032068431970029964,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8195.74420541572,
+                4.037162679576267
+            ],
+            "minimum_value": 0.0032112782414016224,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8109.166484044181,
+                4.041060032891959
+            ],
+            "minimum_value": 0.003219916771888788,
+            "success": false
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8271.049615177255,
+                4.039021710203591
+            ],
+            "minimum_value": 0.0032351641554660623,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8271.049628321238,
+                4.039021696026513
+            ],
+            "minimum_value": 0.0032351641554660762,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8271.049667145353,
+                4.039021711946793
+            ],
+            "minimum_value": 0.0032351641554660927,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8271.04963602156,
+                4.039021692846865
+            ],
+            "minimum_value": 0.0032351641554660927,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8271.057485571271,
+                4.039016307306292
+            ],
+            "minimum_value": 0.0032351641640190527,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8270.89855742303,
+                4.039032868981149
+            ],
+            "minimum_value": 0.0032351644252522085,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8270.898515837463,
+                4.039032870099543
+            ],
+            "minimum_value": 0.0032351644254004427,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8270.896338391538,
+                4.039033030938861
+            ],
+            "minimum_value": 0.0032351644332277874,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8270.888773530032,
+                4.039033589098411
+            ],
+            "minimum_value": 0.00323516446128916,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8271.367790199522,
+                4.0389980565962444
+            ],
+            "minimum_value": 0.003235165358728062,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8270.892826558484,
+                4.0390861231031
+            ],
+            "minimum_value": 0.003235165391830699,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8273.382488681624,
+                4.038852663576048
+            ],
+            "minimum_value": 0.0032352304369084378,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8288.384148267103,
+                4.038505772177783
+            ],
+            "minimum_value": 0.0032400929750709324,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8296.579416790095,
+                4.036770571665404
+            ],
+            "minimum_value": 0.0032478712467052116,
+            "success": false
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8000.001,
+                4.035341386399823
+            ],
+            "minimum_value": 0.0033407278906353952,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8000.001,
+                4.035341387637186
+            ],
+            "minimum_value": 0.0033407278906353952,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8000.001,
+                4.035341871719933
+            ],
+            "minimum_value": 0.003340727890685184,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8000.001009607766,
+                4.035341386884721
+            ],
+            "minimum_value": 0.0033407278947643173,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8000.001068720402,
+                4.035341390049399
+            ],
+            "minimum_value": 0.003340727920167791,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8000.002243847824,
+                4.03534142401924
+            ],
+            "minimum_value": 0.0033407284251412194,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8000.003102056339,
+                4.035341913662665
+            ],
+            "minimum_value": 0.003340728793924967,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8000.772868135141,
+                4.035389794934551
+            ],
+            "minimum_value": 0.003341045693641928,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8369.991603983633,
+                4.030663560048997
+            ],
+            "minimum_value": 0.0034036701465546414,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8369.992036556476,
+                4.030664824966785
+            ],
+            "minimum_value": 0.0034036701468680595,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8369.992209719283,
+                4.030665324392188
+            ],
+            "minimum_value": 0.0034036701472231153,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8370.110281936795,
+                4.030760242826095
+            ],
+            "minimum_value": 0.0034036718020290027,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8380.652037951553,
+                4.0364552635904865
+            ],
+            "minimum_value": 0.003408968792920469,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8400.945200246777,
+                4.037169661542343
+            ],
+            "minimum_value": 0.0034228852394684486,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8147.94132204943,
+                3.963703710806227
+            ],
+            "minimum_value": 0.003457267754775199,
+            "success": false
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.229640185635,
+                4.092241222008796
+            ],
+            "minimum_value": 0.003510648589123121,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.229605333656,
+                4.092241238011171
+            ],
+            "minimum_value": 0.0035106485891231555,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.229618385805,
+                4.092241177770749
+            ],
+            "minimum_value": 0.0035106485891232553,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.22961611392,
+                4.092241249038127
+            ],
+            "minimum_value": 0.0035106485891232874,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.229651176098,
+                4.09224119603182
+            ],
+            "minimum_value": 0.003510648589123339,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.229608005615,
+                4.092241169628952
+            ],
+            "minimum_value": 0.003510648589123396,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.229629293652,
+                4.092241163030255
+            ],
+            "minimum_value": 0.003510648589123607,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8499.229628924626,
+                4.092241269921404
+            ],
+            "minimum_value": 0.0035106485891237644,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8499.229610962197,
+                4.092241143331859
+            ],
+            "minimum_value": 0.0035106485891240775,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8499.229616521152,
+                4.092241292916546
+            ],
+            "minimum_value": 0.003510648589124496,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8499.229932503491,
+                4.092241236040154
+            ],
+            "minimum_value": 0.00351064858914499,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8499.229018273216,
+                4.092241165693199
+            ],
+            "minimum_value": 0.0035106485892007874,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8499.230221375163,
+                4.092241257773573
+            ],
+            "minimum_value": 0.0035106485892033006,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8499.230420896654,
+                4.0922412736828795
+            ],
+            "minimum_value": 0.0035106485892648673,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8499.230052120613,
+                4.092244003390871
+            ],
+            "minimum_value": 0.003510648590952109,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8499.25568111771,
+                4.092252610428083
+            ],
+            "minimum_value": 0.003510648758359861,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8499.855680312368,
+                4.092284049243216
+            ],
+            "minimum_value": 0.003510734729455769,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8441.972055673476,
+                4.051821310170529
+            ],
+            "minimum_value": 0.0035521709939558234,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8211.66758049813,
+                3.926378010662175
+            ],
+            "minimum_value": 0.0035706734611505183,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8496.580449224728,
+                4.072767621801846
+            ],
+            "minimum_value": 0.0035810650907970414,
+            "success": false
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8169.604637777174,
+                4.175408947779467
+            ],
+            "minimum_value": 0.0036805334134777396,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8169.6046077426,
+                4.175408971586922
+            ],
+            "minimum_value": 0.003680533413477767,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8169.60455998846,
+                4.175408914258016
+            ],
+            "minimum_value": 0.003680533413478193,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8169.582348893315,
+                4.175436270684501
+            ],
+            "minimum_value": 0.0036805336107952804,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8169.831811030239,
+                4.175383900500753
+            ],
+            "minimum_value": 0.0036805353167412734,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8185.918783142683,
+                4.178407670828762
+            ],
+            "minimum_value": 0.0036908702387952875,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8193.606955109923,
+                4.174151149331418
+            ],
+            "minimum_value": 0.0037057623762394645,
+            "success": false
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8098.534023233244,
+                4.178733051205793
+            ],
+            "minimum_value": 0.0037360577346698246,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8591.999061528306,
+                4.105068007268915
+            ],
+            "minimum_value": 0.0038422806709263995,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8021.337496641569,
+                4.220410637100777
+            ],
+            "minimum_value": 0.003865498917730245,
+            "success": false
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8698.634918106665,
+                4.135850622303428
+            ],
+            "minimum_value": 0.003875436130431575,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8698.63491941878,
+                4.135850623310651
+            ],
+            "minimum_value": 0.0038754361304315765,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8698.634922494783,
+                4.135850624838117
+            ],
+            "minimum_value": 0.0038754361304315847,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8698.634917029294,
+                4.135850638324594
+            ],
+            "minimum_value": 0.0038754361304317248,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8698.63491694524,
+                4.1358506392651835
+            ],
+            "minimum_value": 0.0038754361304317417,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8698.634941251334,
+                4.135850603867989
+            ],
+            "minimum_value": 0.003875436130431923,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8698.63495601973,
+                4.1358506298665425
+            ],
+            "minimum_value": 0.003875436130431988,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8698.63492729221,
+                4.135850712485953
+            ],
+            "minimum_value": 0.0038754361304360573,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8698.63544726871,
+                4.135846856411296
+            ],
+            "minimum_value": 0.0038754361384076637,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8698.623179152606,
+                4.1358342204288645
+            ],
+            "minimum_value": 0.0038754363049518553,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8698.963993448486,
+                4.13596656252942
+            ],
+            "minimum_value": 0.0038754710192794293,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8693.367187994982,
+                4.135647963260593
+            ],
+            "minimum_value": 0.003882559232481114,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073860087727,
+                4.487539947817028
+            ],
+            "minimum_value": 0.003923121892286998,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073864041198,
+                4.48753995230046
+            ],
+            "minimum_value": 0.00392312189228701,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073830762525,
+                4.4875399570058425
+            ],
+            "minimum_value": 0.003923121892287015,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073860063445,
+                4.4875399649539816
+            ],
+            "minimum_value": 0.0039231218922870705,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.073850736222,
+                4.487539938135902
+            ],
+            "minimum_value": 0.0039231218922870705,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073870819815,
+                4.487539938630416
+            ],
+            "minimum_value": 0.003923121892287088,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073877371971,
+                4.487539945701576
+            ],
+            "minimum_value": 0.003923121892287092,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073841328876,
+                4.48753997196394
+            ],
+            "minimum_value": 0.003923121892287097,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.07381968519,
+                4.48753995251328
+            ],
+            "minimum_value": 0.003923121892287109,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073820193344,
+                4.487539951600973
+            ],
+            "minimum_value": 0.0039231218922871096,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073817092365,
+                4.4875399542782
+            ],
+            "minimum_value": 0.0039231218922871226,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073844996734,
+                4.4875399743080875
+            ],
+            "minimum_value": 0.003923121892287139,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073843900745,
+                4.487539975253131
+            ],
+            "minimum_value": 0.003923121892287153,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073825131652,
+                4.487539975068255
+            ],
+            "minimum_value": 0.00392312189228716,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073838531025,
+                4.487539976580122
+            ],
+            "minimum_value": 0.003923121892287166,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073810870856,
+                4.487539959439354
+            ],
+            "minimum_value": 0.003923121892287168,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073810938171,
+                4.487539958675687
+            ],
+            "minimum_value": 0.003923121892287169,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073883336478,
+                4.487539954106069
+            ],
+            "minimum_value": 0.003923121892287171,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073882140863,
+                4.487539936807936
+            ],
+            "minimum_value": 0.003923121892287173,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073873052304,
+                4.487539930449054
+            ],
+            "minimum_value": 0.0039231218922871946,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073890508302,
+                4.4875399455015605
+            ],
+            "minimum_value": 0.003923121892287223,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.07387579211,
+                4.487539928087561
+            ],
+            "minimum_value": 0.003923121892287243,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073815978552,
+                4.487539942645977
+            ],
+            "minimum_value": 0.0039231218922872535,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073893265399,
+                4.487539942379236
+            ],
+            "minimum_value": 0.003923121892287256,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073802435398,
+                4.487539962879351
+            ],
+            "minimum_value": 0.003923121892287263,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073821458887,
+                4.487539937996844
+            ],
+            "minimum_value": 0.003923121892287266,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073817396704,
+                4.4875399818789745
+            ],
+            "minimum_value": 0.0039231218922873,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.07380043793,
+                4.487539971461742
+            ],
+            "minimum_value": 0.003923121892287312,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073841492625,
+                4.487539983464459
+            ],
+            "minimum_value": 0.003923121892287313,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.07385799297,
+                4.487539979749709
+            ],
+            "minimum_value": 0.003923121892287318,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073883721809,
+                4.487539966905488
+            ],
+            "minimum_value": 0.003923121892287329,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073854211074,
+                4.4875399229384705
+            ],
+            "minimum_value": 0.0039231218922873455,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073860692108,
+                4.487539981493301
+            ],
+            "minimum_value": 0.003923121892287384,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073803801859,
+                4.487539981424006
+            ],
+            "minimum_value": 0.0039231218922873845,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073887195507,
+                4.487539967921162
+            ],
+            "minimum_value": 0.003923121892287397,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073858525411,
+                4.4875399202238935
+            ],
+            "minimum_value": 0.003923121892287402,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073843738734,
+                4.487539922236216
+            ],
+            "minimum_value": 0.00392312189228742,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073907993545,
+                4.4875399532197955
+            ],
+            "minimum_value": 0.003923121892287534,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073856369987,
+                4.487539914471654
+            ],
+            "minimum_value": 0.003923121892287575,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.073842243568,
+                4.487539916344553
+            ],
+            "minimum_value": 0.003923121892287609,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.073843164339,
+                4.487539915060416
+            ],
+            "minimum_value": 0.003923121892287644,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.07386807437,
+                4.48753999077625
+            ],
+            "minimum_value": 0.003923121892287745,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073870015187,
+                4.487539903841874
+            ],
+            "minimum_value": 0.003923121892287903,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8281.073871608922,
+                4.487539890619301
+            ],
+            "minimum_value": 0.003923121892288476,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.073722979123,
+                4.4875406310501145
+            ],
+            "minimum_value": 0.003923121892467515,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.073501853958,
+                4.487541517963098
+            ],
+            "minimum_value": 0.003923121893239673,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.073499561675,
+                4.487541526342141
+            ],
+            "minimum_value": 0.003923121893249833,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.07914232319,
+                4.487539473275496
+            ],
+            "minimum_value": 0.003923121896367049,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8281.044559347054,
+                4.487493063480967
+            ],
+            "minimum_value": 0.003923123201127955,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8281.023483512388,
+                4.487604107831548
+            ],
+            "minimum_value": 0.003923123448611062,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8280.892212702587,
+                4.487577616407532
+            ],
+            "minimum_value": 0.0039231264767539365,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8280.89103555178,
+                4.487577862442843
+            ],
+            "minimum_value": 0.003923126536303931,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8280.890021099207,
+                4.487578074472599
+            ],
+            "minimum_value": 0.003923126587930927,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8280.889696776965,
+                4.487578142258856
+            ],
+            "minimum_value": 0.00392312660449624,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8280.98351843013,
+                4.487669867776914
+            ],
+            "minimum_value": 0.003923128196230385,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8281.348954400988,
+                4.487403629167103
+            ],
+            "minimum_value": 0.003923135003988904,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8280.71455368717,
+                4.487551832655245
+            ],
+            "minimum_value": 0.003923141572900229,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8281.18627754621,
+                4.485824956561371
+            ],
+            "minimum_value": 0.003924302415491437,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8290.617962198357,
+                4.470696554633442
+            ],
+            "minimum_value": 0.004007360097131841,
+            "success": false
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8255.205420658076,
+                4.4690417413313135
+            ],
+            "minimum_value": 0.004063680284783277,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8255.205393490462,
+                4.469041771704677
+            ],
+            "minimum_value": 0.00406368028478342,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8403.288157412968,
+                4.141962378897832
+            ],
+            "minimum_value": 0.004064318832645226,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8295.822964481407,
+                4.464530234785925
+            ],
+            "minimum_value": 0.00406992554067475,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8315.801025305838,
+                4.4777146434014865
+            ],
+            "minimum_value": 0.0041568453926672366,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8206.011908886703,
+                4.4689397521942915
+            ],
+            "minimum_value": 0.0041658082771411755,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8215.008402635352,
+                4.4842577511282755
+            ],
+            "minimum_value": 0.004167063657637545,
+            "success": false
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8374.988602007219,
+                4.433150811225138
+            ],
+            "minimum_value": 0.004171855974805288,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8374.9886068938,
+                4.433150808819264
+            ],
+            "minimum_value": 0.004171855974805295,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8374.988588244765,
+                4.433150812636647
+            ],
+            "minimum_value": 0.004171855974805328,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8374.988606320745,
+                4.433150826883823
+            ],
+            "minimum_value": 0.004171855974805333,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8374.988632162564,
+                4.43315084020739
+            ],
+            "minimum_value": 0.0041718559748054026,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8374.988698039557,
+                4.433150833975131
+            ],
+            "minimum_value": 0.0041718559748055856,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8374.991979439848,
+                4.433151081053339
+            ],
+            "minimum_value": 0.004171855975640126,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8375.534716156653,
+                4.433546809236109
+            ],
+            "minimum_value": 0.004171899298481896,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8377.764296967398,
+                4.433662030202728
+            ],
+            "minimum_value": 0.004172313193923637,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8198.039816613846,
+                4.471089812465422
+            ],
+            "minimum_value": 0.004178269994605178,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8141.777356982402,
+                4.4755760979871235
+            ],
+            "minimum_value": 0.004263876881578211,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8158.816314050505,
+                4.425534088015597
+            ],
+            "minimum_value": 0.004299965198668875,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8500.971119982461,
+                4.435449442615594
+            ],
+            "minimum_value": 0.00434228643086828,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8174.640717762553,
+                4.335731177033536
+            ],
+            "minimum_value": 0.004444455672054249,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8204.024759946029,
+                4.332282955454537
+            ],
+            "minimum_value": 0.004449745497248543,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8225.482415850416,
+                4.316089377302991
+            ],
+            "minimum_value": 0.0044910608682774975,
+            "success": false
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552786646705,
+                4.493319028413838
+            ],
+            "minimum_value": 0.0046559908966903995,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552784960797,
+                4.493319042325698
+            ],
+            "minimum_value": 0.004655990896690484,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552832584644,
+                4.493319040306503
+            ],
+            "minimum_value": 0.004655990896690531,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552835149836,
+                4.4933190277892425
+            ],
+            "minimum_value": 0.004655990896690546,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552778944182,
+                4.493319011896206
+            ],
+            "minimum_value": 0.004655990896690595,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552760494938,
+                4.4933190295617695
+            ],
+            "minimum_value": 0.004655990896690599,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552822326154,
+                4.493319013541031
+            ],
+            "minimum_value": 0.004655990896690618,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8715.552840345521,
+                4.493319073516032
+            ],
+            "minimum_value": 0.004655990896691378,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8715.569302083284,
+                4.493319966050646
+            ],
+            "minimum_value": 0.004655990934472937,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8715.57010127758,
+                4.493320584539826
+            ],
+            "minimum_value": 0.004655990938222296,
+            "success": true
+        },
+        {
+            "algorithm": "Powell",
+            "minimum_point": [
+                8715.57014873778,
+                4.493320590349705
+            ],
+            "minimum_value": 0.004655990938450924,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8716.056463550818,
+                4.493691493921085
+            ],
+            "minimum_value": 0.004656084455132216,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8463.939285465878,
+                4.3171781873289365
+            ],
+            "minimum_value": 0.004674744423444625,
+            "success": false
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8396.23112136059,
+                4.264817416734289
+            ],
+            "minimum_value": 0.004681239360724844,
+            "success": true
+        },
+        {
+            "algorithm": "TNC",
+            "minimum_point": [
+                8600.230553679765,
+                4.545213306667519
+            ],
+            "minimum_value": 0.005547971188751416,
+            "success": true
+        },
+        {
+            "algorithm": "Nelder-Mead",
+            "minimum_point": [
+                8799.999,
+                4.598999999999997
+            ],
+            "minimum_value": 0.007060313505944274,
+            "success": true
+        }
+    ],
+    "optimization_paths": {
+        "differential_evolution": {
+            "points_count": 7,
+            "sample_points": [
+                [
+                    8222.582602062228,
+                    4.017378415792574
+                ],
+                [
+                    8165.292142809512,
+                    4.026079418478218
+                ],
+                [
+                    8166.3407717959235,
+                    4.031832323161216
+                ],
+                [
+                    8166.3407717959235,
+                    4.031832323161216
+                ],
+                [
+                    8166.3407717959235,
+                    4.031832323161216
+                ]
+            ]
+        },
+        "dual_annealing": {
+            "points_count": 10,
+            "sample_points": [
+                [
+                    8377.2365937531,
+                    4.419267029959045
+                ],
+                [
+                    8377.236588319509,
+                    4.433768889954623
+                ],
+                [
+                    8384.658417805564,
+                    4.060355708636051
+                ],
+                [
+                    8384.65841706311,
+                    4.034056440386344
+                ],
+                [
+                    8077.35581342876,
+                    4.054121772970904
+                ]
+            ]
+        }
+    },
+    "edge_investigation": {
+        "is_near_edge": false
+    }
+}

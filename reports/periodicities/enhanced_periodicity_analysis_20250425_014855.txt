@@ -1,0 +1,79 @@
+=== ENHANCED PERIODICITY ANALYSIS RESULTS ===
+Input file: C:\Users\franj\OneDrive\Desktop\phoenix analysis pipe\./output\quality_results_20250425_014528.json
+Data points: 135
+Z-scale: 0.2
+
+--- Detected Periodicities ---
+Teff periodicity: 300.00 ± 141.42
+logg periodicity: 0.1027 ± 0.0373
+Number of pattern clusters: 6
+Suggested additional data points: 200
+
+--- Pattern Insights ---
+Detected Quality Gradient Regions:
+  Region 1: Teff = 8000.0-8424.5, logg = 4.06-4.09
+  Region 2: Teff = 8751.0-8800.0, logg = 4.10-4.11
+  Region 3: Teff = 8000.0-8800.0, logg = 4.11-4.29
+  Region 4: Teff = 8000.0-8800.0, logg = 4.46-4.60
+
+Quality Sensitivity Analysis:
+  Teff sensitivity: 0.000148 (quality change per 100K)
+  logg sensitivity: -0.000215 (quality change per 0.1 dex)
+  Quality is more sensitive to changes in logg than Teff
+
+Pattern Symmetry Analysis:
+  Symmetry score: 0.83 (0-1 scale)
+  High symmetry detected - suggests regular physical patterns
+
+Most promising regions to explore:
+  Region 1: Teff = 8027.6, logg range: 4.07-4.58
+  Region 2: Teff = 8055.2, logg range: 4.07-4.60
+  Region 3: Teff = 8082.8, logg range: 4.14-4.58
+  Region 4: Teff = 8110.3, logg range: 4.14-4.55
+  Region 5: Teff = 8137.9, logg range: 4.07-4.60
+
+=== ENHANCED RECOMMENDATIONS ===
+
+1. PATTERN-BASED SAMPLING APPROACH:
+   The data shows distinct cluster patterns. We recommend focused sampling in these clustered regions.
+   Cluster 1: Center at Teff=8641.7, logg=4.337
+     - Best quality: 0.004576 at Teff=8500.0, logg=4.400
+     - Recommended sampling: 12 points around this region
+   Cluster 2: Center at Teff=8202.8, logg=4.049
+     - Best quality: 0.003272 at Teff=8200.0, logg=4.050
+     - Recommended sampling: 18 points around this region
+   Cluster 3: Center at Teff=8725.0, logg=4.481
+     - Best quality: 0.005749 at Teff=8600.0, logg=4.500
+     - Recommended sampling: 4 points around this region
+   Cluster 4: Center at Teff=8206.5, logg=4.377
+     - Best quality: 0.004097 at Teff=8300.0, logg=4.500
+     - Recommended sampling: 15 points around this region
+   Cluster 5: Center at Teff=8663.6, logg=4.020
+     - Best quality: 0.003844 at Teff=8600.0, logg=4.100
+     - Recommended sampling: 11 points around this region
+   Cluster 6: Center at Teff=8321.4, logg=4.564
+     - Best quality: 0.005292 at Teff=8200.0, logg=4.600
+     - Recommended sampling: 7 points around this region
+
+2. GRADIENT EXPLORATION STRATEGY:
+   Focus on regions with high quality gradients for maximum information gain:
+     - Region 1: Teff = 8000.0-8424.5, logg = 4.06-4.09
+       Recommended: 5-7 points along the steepest gradient direction
+     - Region 2: Teff = 8751.0-8800.0, logg = 4.10-4.11
+       Recommended: 5-7 points along the steepest gradient direction
+     - Region 3: Teff = 8000.0-8800.0, logg = 4.11-4.29
+       Recommended: 5-7 points along the steepest gradient direction
+
+3. PERIODICTY VERIFICATION STRATEGY:
+   To verify the detected periodicities (Teff=300.0, logg=0.1027):
+     - Sample points at 1/2, 1, 3/2, and 2 multiples of the periodicity
+     - Key Teff values: 150.0, 300.0, 450.0, 600.0
+     - Key logg values: 0.0514, 0.1027, 0.1541, 0.2055
+
+4. OPTIMAL SAMPLING PLAN:
+   For best results, collect at least 20 additional data points.
+   Use the predicted points in the exported CSV file as a starting guide.
+   Allocate samples in this ratio:
+     - 40%: High gradient regions for maximum information gain
+     - 30%: Cluster verification and refinement
+     - 30%: Periodicity verification at key intervals

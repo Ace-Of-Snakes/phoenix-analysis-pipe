@@ -1,0 +1,24 @@
+Z-SCALE OPTIMIZATION ANALYSIS RESULTS
+Date: 2025-04-09 13:04:18
+
+OVERVIEW:
+- Analyzed 1 teff/logg pairs
+- Found optimal z-scale for 1 pairs
+
+DETAILED RESULTS:
+=================
+
+Teff=08197, logg=4.05:
+  Optimal z-scale: 0.1566
+  Minimum quality: 0.00327441
+  Fit type: _cubic_func
+  Fit parameters: [0.0012470113567674811, 0.004676716461612111, -0.0015565676007195603, 0.0033986912560540947]
+  Analyzed z-scales: 0.1, 0.1518, 0.1552, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0
+
+RECOMMENDATIONS:
+===============
+
+Average optimal z-scale across all models: 0.1566 ± 0.0000
+
+The optimal z-scale is fairly consistent across models, suggesting a global optimum.
+Recommended z-scale for future models: 0.1566

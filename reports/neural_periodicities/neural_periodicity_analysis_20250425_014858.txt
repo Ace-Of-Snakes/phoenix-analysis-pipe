@@ -1,0 +1,40 @@
+ADVANCED PERIODICITY ANALYSIS RESULTS
+Data file: C:\Users\franj\OneDrive\Desktop\phoenix analysis pipe\./output\quality_results_20250425_014528.json
+z_scale: 0.2
+Date: 2025-04-25 01:49:04
+
+SUMMARY STATISTICS:
+- Data points analyzed: 135
+- Detected Teff periodicity: 201.57 ± 0.00
+- Detected logg periodicity: 0.1046 ± 0.0185
+- Number of pattern clusters: 4
+- Suggested additional points: 200
+
+
+DETAILED RECOMMENDATIONS:
+========================
+
+1. CLUSTER-BASED SAMPLING STRATEGY:
+   The data reveals 4 distinct pattern clusters. We recommend:
+   - Cluster 0: Contains 14 points
+   - Cluster 1: Contains 54 points
+   - Cluster 2: Contains 26 points
+   - Cluster 3: Contains 7 points
+
+2. PERIODICITY-BASED SAMPLING STRATEGY:
+   The detected periodicities suggest a grid-based sampling approach:
+   - Sample at Teff intervals of 201.6
+   - Sample at logg intervals of 0.1046
+
+3. ANOMALY INVESTIGATION STRATEGY:
+   13 potential anomalies detected with high reconstruction error.
+
+4. NEXT STEPS:
+   Most promising regions to explore:
+   - Region 1: Teff = 8042.1, logg range: 3.90-4.60
+   - Region 2: Teff = 8084.2, logg range: 3.90-4.60
+   - Region 3: Teff = 8126.3, logg range: 3.90-4.60
+   - Region 4: Teff = 8168.4, logg range: 3.90-4.60
+   - Region 5: Teff = 8210.5, logg range: 3.90-4.60
+
+   We recommend collecting at least 40 additional data points based on the neural analysis to further refine the model.
