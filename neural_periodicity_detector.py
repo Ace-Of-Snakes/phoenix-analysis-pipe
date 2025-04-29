@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# enhanced_neural_periodicity_detector.py
+# neural_periodicity_detector.py
 
 import os
 import json
@@ -147,7 +147,7 @@ class NeuralPeriodicityDetector:
             
             # Create Gaussian Process model with periodic kernel to better capture physical patterns
             logger.info("Training enhanced Gaussian Process model...")
-            gp, x_scaler, y_scaler = self.create_enhanced_gaussian_process_model(
+            gp, x_scaler, y_scaler = self.create_gaussian_process_model(
                 teff_values, logg_values, quality_shifted_values, 
                 x_periodicity, y_periodicity)
             
@@ -165,13 +165,13 @@ class NeuralPeriodicityDetector:
             logger.info("Generating enhanced predictions for additional data points...")
             
             # 1. Neural network prediction with extrapolation capability
-            nn_pred_x, nn_pred_y = self.enhanced_neural_network_prediction(
+            nn_pred_x, nn_pred_y = self.neural_network_prediction(
                 autoencoder, data_scaler, teff_values, logg_values, quality_shifted_values,
                 x_periodicity, y_periodicity, n_points=100,
                 x_range=x_range, y_range=y_range)
             
             # 2. GP prediction with uncertainty awareness
-            gp_pred_x, gp_pred_y = self.enhanced_gp_prediction(
+            gp_pred_x, gp_pred_y = self.gp_prediction(
                 gp, x_scaler, y_scaler, teff_values, logg_values, quality_shifted_values,
                 x_periodicity, y_periodicity, n_points=100,
                 x_range=x_range, y_range=y_range)
@@ -189,10 +189,10 @@ class NeuralPeriodicityDetector:
             # Create visualization
             output_image = os.path.join(
                 self.image_output_dir, 
-                f"enhanced_neural_periodicities_{timestamp}.png"
+                f"neural_periodicities_{timestamp}.png"
             )
             
-            self.plot_enhanced_analysis_results(
+            self.plot_analysis_results(
                 teff_values, logg_values, quality_shifted_values,
                 pred_x, pred_y, nn_pred_x, nn_pred_y, gp_pred_x, gp_pred_y, phys_pred_x, phys_pred_y,
                 x_periodicity, y_periodicity,
@@ -205,7 +205,7 @@ class NeuralPeriodicityDetector:
             csv_filename = os.path.join(
                 self.report_output_dir,
                 "neural_periodicities",
-                f"enhanced_neural_predicted_points_{timestamp}.csv"
+                f"neural_predicted_points_{timestamp}.csv"
             )
             
             if len(pred_x) > 0:
@@ -223,7 +223,7 @@ class NeuralPeriodicityDetector:
                 logger.info(f"Predicted points exported to {csv_filename}")
             
             # Format detailed recommendations
-            recommendations = self.format_enhanced_recommendations(
+            recommendations = self.format_recommendations(
                 cluster_labels, n_clusters, pred_x, pred_y, 
                 nn_pred_x, nn_pred_y, gp_pred_x, gp_pred_y, phys_pred_x, phys_pred_y,
                 x_periodicity, y_periodicity, reconstruction_errors)
@@ -232,7 +232,7 @@ class NeuralPeriodicityDetector:
             report_file = os.path.join(
                 self.report_output_dir,
                 "neural_periodicities",
-                f"enhanced_neural_periodicity_analysis_{timestamp}.txt"
+                f"neural_periodicity_analysis_{timestamp}.txt"
             )
             
             with open(report_file, 'w', encoding='utf-8') as f:
@@ -293,7 +293,7 @@ class NeuralPeriodicityDetector:
             json_report_file = os.path.join(
                 self.report_output_dir, 
                 "neural_periodicities", 
-                f"enhanced_neural_periodicity_analysis_{timestamp}.json"
+                f"neural_periodicity_analysis_{timestamp}.json"
             )
             
             with open(json_report_file, 'w') as f:
@@ -624,7 +624,7 @@ class NeuralPeriodicityDetector:
             logger.info(f"Found {n_clusters} clusters using fallback DBSCAN")
             return cluster_labels, n_clusters
     
-    def create_enhanced_gaussian_process_model(self, x_values: np.ndarray, 
+    def create_gaussian_process_model(self, x_values: np.ndarray, 
                                              y_values: np.ndarray, 
                                              z_values: np.ndarray,
                                              x_periodicity: float, 
@@ -709,7 +709,7 @@ class NeuralPeriodicityDetector:
             logger.info(f"Trained GP model with fallback kernel: {gp.kernel_}")
             return gp, x_scaler, y_scaler
     
-    def enhanced_neural_network_prediction(self, model: Autoencoder, 
+    def neural_network_prediction(self, model: Autoencoder, 
                                         scaler: MinMaxScaler, 
                                         x_values: np.ndarray, 
                                         y_values: np.ndarray, 
@@ -996,7 +996,7 @@ class NeuralPeriodicityDetector:
             logger.info(f"Generated {len(pred_x)} predictions using fallback method")
             return pred_x, pred_y
 
-    def enhanced_gp_prediction(self, gp, x_scaler, y_scaler, x_values, y_values, z_values,
+    def gp_prediction(self, gp, x_scaler, y_scaler, x_values, y_values, z_values,
                           x_periodicity, y_periodicity, n_points=100,
                               x_range=None, y_range=None):
         """
@@ -1443,7 +1443,7 @@ class NeuralPeriodicityDetector:
         
         return selected_indices
 
-    def plot_enhanced_analysis_results(self, x_values, y_values, z_values,
+    def plot_analysis_results(self, x_values, y_values, z_values,
                        pred_x, pred_y, nn_pred_x, nn_pred_y, gp_pred_x, gp_pred_y, 
                        phys_pred_x, phys_pred_y, x_periodicity, y_periodicity,
                        cluster_labels, n_clusters, z_scale, output_file,
@@ -1651,7 +1651,7 @@ class NeuralPeriodicityDetector:
         
         logger.info(f"Enhanced neural periodicity analysis plot saved to {output_file}")
 
-    def format_enhanced_recommendations(self, cluster_labels, n_clusters, pred_x, pred_y, 
+    def format_recommendations(self, cluster_labels, n_clusters, pred_x, pred_y, 
                                 nn_pred_x, nn_pred_y, gp_pred_x, gp_pred_y, 
                                 phys_pred_x, phys_pred_y,
                                 x_periodicity, y_periodicity, reconstruction_errors,

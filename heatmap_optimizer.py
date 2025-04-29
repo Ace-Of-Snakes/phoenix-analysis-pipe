@@ -302,7 +302,7 @@ class HeatmapMinimumFinder:
         loggs = [p[1] for p in self.points]
         return ((min(teffs), max(teffs)), (min(loggs), max(loggs)))
     
-    def create_grid(self, grid_density: int = 100, method: str = "cubic") -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
+    def create_grid(self, grid_density: int = 100, method: str = "linear") -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
         """
         Create a regular grid and interpolate the scattered data onto it.
         
@@ -455,9 +455,9 @@ class HeatmapMinimumFinder:
         
         try:
             # Use safer linear interpolation first
-            interpolated_value = griddata(self.points, self.values, ([x, y]), method='cubic')
+            interpolated_value = griddata(self.points, self.values, ([x, y]), method='linear')
             if np.isnan(interpolated_value):
-                interpolated_value = griddata(self.points, self.values, ([x, y]), method='linear')
+                interpolated_value = griddata(self.points, self.values, ([x, y]), method='cubic')
             if np.isnan(interpolated_value):
                 return float('inf')
             return float(interpolated_value[0])

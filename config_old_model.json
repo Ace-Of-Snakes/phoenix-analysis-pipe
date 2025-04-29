@@ -1,0 +1,14 @@
+{
+    "nlte_models_dir": "./oldh5",
+    "z_scale_models_dir": "./nlte_z_scale",
+    "quality_output_dir": "./output",
+    "image_output_dir": "./pngs",
+    "report_output_dir": "./reports",
+    "original_spectrum_file": ".uves_spectra_fomalhaut.csv",
+    "recalculate_all": true,
+    "skip_z_scale_min": true,
+    "skip_prediction": true,
+    "skip_neural_prediction": true,
+    "threads": 12,
+    "log_level": "INFO"
+}
